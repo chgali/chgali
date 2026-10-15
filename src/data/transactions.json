@@ -1,0 +1,43 @@
+{
+  "lastUpdated": "2026-10-15",
+  "kpis": {
+    "totalSpend": 520000,
+    "axisSpend": 400000,
+    "iciciSpend": 120000,
+    "fuel": 53000,
+    "dining": 25000
+  },
+  "monthlySpend": [
+    60329,
+    16774,
+    49607,
+    11351,
+    114944,
+    10778,
+    42079,
+    141808,
+    62076
+  ],
+  "highValueTransactions": [
+    {
+      "merchant": "Vehicle Purchase",
+      "amount": 128194
+    },
+    {
+      "merchant": "Croma Electronics",
+      "amount": 76497.71
+    },
+    {
+      "merchant": "Green Soul Chair",
+      "amount": 52831.5
+    },
+    {
+      "merchant": "Amazon Purchase",
+      "amount": 48995
+    },
+    {
+      "merchant": "Amazon Purchase",
+      "amount": 35094
+    }
+  ]
+}
